@@ -2,13 +2,15 @@
 "avatarsSpawningActivatation": true,
 
 "avatarsCustomSpawning": false,
-"avatarsCustomSpawningNumber": 2,
+"avatarsCustomSpawningNumber": 1,
 
-"avatarsSpawningNumber": 4,
-"avatarsSpawningUsername": 	[
-							"faly",
-							"drone_01",
-							"drone_02",
-							"swefheim"
-							]
+"avatarsSpawningNumber": 6,
+"avatarsSpawningUsername": [
+			   "npc_bot1",
+			   "npc_bot2",
+			   "npc_bot3",
+			   "npc_bot4",
+			   "npc_bot5",
+			   "npc_bot6"
+			   ]
 }
