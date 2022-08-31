@@ -11,7 +11,7 @@
 >- **false** 🠚 Deactivate the random spawning of an avatar in the list you have entered in "*avatarsSpawningUsername*". If you choose to use *false*, the choice will be set with the variable "*avatarsSpawningNumber*". (*Default*)
 
 ### avatarsCustomSpawningNumber
->- Choose the number of avatars to spawn. Be careful, if you choose 2 or more, it may sometimes choose the same avatar and therefore will only display it once.
+>- Choose the number of avatars to spawn. ⚠ Be careful, if you choose 2 or more, it may sometimes choose the same avatar and therefore will only display it once.
 
 ### avatarsSpawningNumber
 >- Choose the number of avatars to appear. If you have entered 6 avatar names, but choose a lower number, such as 3. This will display the first 3 avatars starting from the top.
