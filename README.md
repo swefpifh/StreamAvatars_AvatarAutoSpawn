@@ -7,11 +7,11 @@
 >- **false** 🠚 Deactivate the script.
 
 ### avatarsCustomSpawning
->- Enter the name of the active avatar that will make the chat bubble appear with the text you have chosen in "*myAvatarBubbleText*".
+>- **true** 🠚 Activate the random spawning of an avatar in the list you have entered in "*avatarsSpawningUsername*".
+>- **false** 🠚 Deactivate the random spawning of an avatar in the list you have entered in "*avatarsSpawningUsername*". If you choose to use *false*, the choice will be set with the variable "*avatarsSpawningNumber*". (*Default*)
 
 ### avatarsCustomSpawningNumber
 >- **true** 🠚 Activate the infinite loop and deactivate the simple loop "*myAvatarBubbleTextLoop*".
->- **false** 🠚 Deactivate the infinite loop and activate the simple loop "*myAvatarBubbleTextLoop*". (*Default*)
 
 ### avatarsSpawningNumber
 >- Choose the desired number to display the message in the avatar bubble as many times as desired.
