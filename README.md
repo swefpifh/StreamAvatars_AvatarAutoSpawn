@@ -11,10 +11,10 @@
 >- **false** 🠚 Deactivate the random spawning of an avatar in the list you have entered in "*avatarsSpawningUsername*". If you choose to use *false*, the choice will be set with the variable "*avatarsSpawningNumber*". (*Default*)
 
 ### avatarsCustomSpawningNumber
->- **true** 🠚 Activate the infinite loop and deactivate the simple loop "*myAvatarBubbleTextLoop*".
+>- Choose the number of avatars to spawn. Be careful, if you choose 2 or more, it may sometimes choose the same avatar and therefore will only display it once.
 
 ### avatarsSpawningNumber
->- Choose the desired number to display the message in the avatar bubble as many times as desired.
+>- Choose the number of avatars to appear. If you have entered 6 avatar names, but choose a lower number, such as 3. This will display the first 3 avatars starting from the top.
 
 ### avatarsSpawningUsername
->- Choose the minimum and maximum number (in seconds) to generate a random number. By default, the chosen number will be between 60 and 70. The first loop may activate the message at 62s, the second maybe at 67s, etc...
+>- Enter your avatars to add them to the spawn list. Remember to change the number in the "*avatarsSpawningNumber*" variable to make sure everything appears.
